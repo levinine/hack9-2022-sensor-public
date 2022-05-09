@@ -1,0 +1,16 @@
+[default]
+sensor_name = "Levi9 NineAir Amsterdam"
+sensor_location = { latitude = 52.368515464923036, longitude = 4.905746869314592, name = "Muiderstraat, Amsterdam, Netherlands" }
+sensor_interval = 118
+aws_certificatePath = "/home/pi/sensor/aws/nineair-aws.cert.pem"
+aws_rootCAPath = "/home/pi/sensor/aws/aws-root-CA.crt"
+aws_privateKeyPath = "/home/pi/sensor/aws/nineair-aws.private.key"
+aws_endpoint = "example.iot.eu-central-1.amazonaws.com"
+aws_clientId = "nineair-amsterdam-client"
+aws_port = 8883
+aws_useWebsocket = "False"
+aws_topic = "sensor/air"
+aws_tunnel_topic = "$aws/things/nineair-amsterdam/tunnels/notify"
+aws_region = "eu-central-1"
+localproxy_bin = "/home/pi/sensor/localproxy"
+azure_iot_connection_string = "HostName=iot-hack9.azure-devices.net;DeviceId=sensor_amsterdam;SharedAccessKey=ExAmPle/ShArEDd=Key"
