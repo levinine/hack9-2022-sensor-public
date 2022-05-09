@@ -1,1 +1,1 @@
-# hack9-2022-sensor-case
+# hack9-2022-sensor-public
