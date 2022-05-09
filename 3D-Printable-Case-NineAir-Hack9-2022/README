@@ -1,0 +1,17 @@
+Hello, here are everything one would need to make another nineAir 3D printed case:
+
+	Download 3D models;
+	Download Slicing softvare (PrusaSlicer);
+	1x 3D printer;
+	2x PETG 3D printer filament (PETG is suitable for outdoor use and have 2 different colors for the box and logo);
+	2x M5 nuts (Superglued to the front case);
+	2x M5 25mm flat head screws (To connect the back and front case );
+	6x M2.5 nuts (Superglued to the back case);
+	6x M2.5 16mm screws (To hold the Raspberry Pi in place);
+	6x long zip ties (4 to mount to the wall and 2 for the PMS7003 - PM2.5 Sensor);
+	1x paper clip (For the DHT11 - HUMIDITY AND TEMPERATURE SENSOR);
+	1x window screen (Hotglue to front case);
+	1x hot glue gun;
+	1x superglue;
+  
+If you have any questions contact Stefan Bolesnikov (s.bolesnikov@levi9.com).
